@@ -1,0 +1,1 @@
+{\n  "$schema": "https://docs.renovatebot.com/renovate-schema.json",\n  "extends": ["config:base"],\n  "schedule": ["before 9am on Monday"],\n  "docker": {\n    "enabled": true,\n    "automerge": false\n  }\n}
